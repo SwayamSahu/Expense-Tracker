@@ -7,4 +7,4 @@ Keep track of income and expenses. Add and remove items and save to local storag
 3. Show balance, expense and income totals
 4. Add new transaction and reflect in total
 5. Delete items from DOM
-6.cPersist to local storage
+6. Persist to local storage
