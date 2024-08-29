@@ -1,5 +1,5 @@
 # Expense-Tracker
-Keep track of income and expenses. Add and remove items and save to local storage
+Keep track of income and expenses. Add and remove items and save to local storage.
 
 Built a full-featured expense tracker with a clean UI, allowing users to manage income and expenses effortlessly. Implemented features to add, delete, and display transactions, with real-time updates to balance, income, and expense totals. Ensured data persistence using local storage, providing a seamless user experience even after page reloads.
 
